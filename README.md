@@ -5,6 +5,8 @@ The Solution: InsightFit. This application provides a seamless and intelligent w
 
 What InsightFit Offers:
 Smart Workout Logging: Record every detail of your exercises, from weights lifted to distances covered.
+
 Actionable Progress Visualizations: Don't just track, understand. See your strength increase, your endurance improve, and your consistency build over time.
+
 Personalized Goal Achievement: Set targets and watch yourself crush them with clear, data-backed milestones.
 A Clear Path to Your Best Self: By bringing all your fitness data into one intuitive platform, InsightFit helps you focus on what truly matters: your progress.
